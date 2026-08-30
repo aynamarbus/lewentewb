@@ -1,0 +1,6 @@
+#+TITLE: lewentewb
+
+Word guessing game in C.
+
+* References
+- [[https://wordsrated.com/solvers/wordle-words/][List of words]]
