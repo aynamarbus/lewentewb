@@ -4,3 +4,4 @@ Word guessing game in C.
 
 * References
 - [[https://wordsrated.com/solvers/wordle-words/][List of words]]
+- [[https://github.com/raysan5/raylib/blob/master/examples/text/text_input_box.c][raylib text input]]

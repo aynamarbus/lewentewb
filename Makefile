@@ -1,2 +1,6 @@
 all:
-	gcc main.c -o lewentewb
+	gcc src/main.c \
+		-static \
+		-static-libgcc \
+		-O2 \
+		-o lewentweb.exe
